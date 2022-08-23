@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47k13vxoa0hkf24iclbjf5wtlt905xoz56ttoxraa0&rid=giphy.gif&ct=g" width="250"/>
 </div>
 
-### Hi, friend 👋
+### Hi, my friend 👋
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ridoansalehnasution/">
@@ -21,7 +21,7 @@
 
 - :beach_umbrella: In my free time, i enjoy watching Football, movies and read tech articles
 
-- :envelope_with_arrow: Want to send a message? Reach me via LinkedIn
+- :envelope_with_arrow: Want to send a 'hello'? Reach me on LinkedIn
 
 
 
@@ -29,6 +29,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -40,3 +41,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### :fire: My Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ridoansaleh&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

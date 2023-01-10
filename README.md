@@ -15,13 +15,13 @@
 
 ### :man_technologist: About Me
 
-- :microscope: I'm working as a Frontend Developer to build scalable web applications
+- :microscope: I'm working as a JavaScript Developer to build scalable web applications
 
-- :books: Currently learning web3
+- :books: Currently learning TypeScript
 
 - :beach_umbrella: In my free time, i enjoy watching Football, movies and read tech articles
 
-- :envelope_with_arrow: Want to send a 'hello'? Reach me on LinkedIn
+- :envelope_with_arrow: Want to say 'hi'? Please add me on LinkedIn
 
 
 

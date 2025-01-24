@@ -1,9 +1,14 @@
+<!--
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47k13vxoa0hkf24iclbjf5wtlt905xoz56ttoxraa0&rid=giphy.gif&ct=g" width="250"/>
 </div>
+-->
 
-### Hi, my friend 👋
+### Hi, I'm [Ridoan Saleh](https://www.linkedin.com/in/ridoansalehnasution/) 👋
 
+I'm a Fullstack Developer with 8+ years of experience in JavaScript frameworks like Vue, React, TypeScript etc. Currently looking for a remote opportunity to contribute my skills and grow with a dynamic team.
+
+<!--
 <div id="badges">
   <a href="https://www.linkedin.com/in/ridoansalehnasution/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,16 +17,17 @@
     <img src="https://img.shields.io/badge/StackOverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
 </div>
+-->
 
 ### :man_technologist: About Me
 
-- :microscope: I'm working as a JavaScript Developer to build scalable web applications
+- :microscope: I'm working as a Fullstack Developer to build products that benefits business and users
 
-- :books: Currently learning TypeScript
+- :books: Currently learning Stripe
 
 - :beach_umbrella: In my free time, i enjoy watching Football, movies and read tech articles
 
-- :envelope_with_arrow: Want to say 'hi'? Please add me on LinkedIn
+- :envelope_with_arrow: Want to say 'hi'? Lets connect on LinkedIn
 
 
 
@@ -41,6 +47,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<!--
 ### :fire: My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ridoansaleh&theme=radical)](https://git.io/streak-stats)
+
+-->

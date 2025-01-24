@@ -23,11 +23,11 @@ I'm a Fullstack Developer with 8+ years of experience in JavaScript frameworks l
 
 - :microscope: I'm working as a Fullstack Developer to build products that benefits business and users
 
-- :books: Currently learning Stripe
+- :books: Currently learning [Stripe](https://stripe.com/)
 
 - :beach_umbrella: In my free time, i enjoy watching Football, movies and read tech articles
 
-- :envelope_with_arrow: Want to say 'hi'? Lets connect on LinkedIn
+- :envelope_with_arrow: Want to say 'hi'? Lets connect on [LinkedIn](https://www.linkedin.com/in/ridoansalehnasution/)
 
 
 

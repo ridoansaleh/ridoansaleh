@@ -6,7 +6,7 @@
 
 ### Hi, I'm [Ridoan Saleh](https://www.linkedin.com/in/ridoansalehnasution/) 👋
 
-I'm a Fullstack Developer with 8+ years of experience in JavaScript frameworks like Vue, React, TypeScript etc. Currently looking for a remote opportunity to contribute my skills and grow with a dynamic team.
+I'm a software developer with over 8 years of experience in web development, including 6 years specializing in frontend technologies and more than 2 years working as a Full-Stack JavaScript Developer.
 
 <!--
 <div id="badges">

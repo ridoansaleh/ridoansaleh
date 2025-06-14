@@ -21,7 +21,7 @@ I'm a software developer with over 8 years of experience in web development, inc
 
 ### :man_technologist: About Me
 
-- :microscope: I'm working as a Fullstack Developer to build products that benefits business and users
+- :microscope: I'm working as a Software Developer to build products that benefits business and users
 
 - :books: Currently expanding my expertise in [Stripe](https://stripe.com/)
 
